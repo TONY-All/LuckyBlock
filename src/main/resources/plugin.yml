@@ -1,0 +1,10 @@
+name: LuckyBlock
+version: @version@
+main: maxmc.ore.LuckyBlock
+authors: [awa]
+description: awa
+website: awa
+commands:
+  LBSave:
+    usage: /<Commnand>
+    permission: lucky.admin
